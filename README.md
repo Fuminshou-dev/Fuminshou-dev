@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](github-readme-stats-five-wheat-19.vercel.app/api?username=fuminshou-dev)](github-readme-stats-five-wheat-19.vercel.app)
+[![Anurag's GitHub stats](github-readme-stats-e9e4r0itx-fuminshou-devs-projects.vercel.app/api?username=anuraghazra)](https://github.com/Fuminshou-dev/github-readme-stats)
